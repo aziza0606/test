@@ -1,0 +1,4 @@
+Ali, Valiyev, engineer, 5000
+Bobur, Karimov,  manager, 4000
+Gulnoza, Anvarova, manager, 5500
+Murod, Usmonov, developer, 3000

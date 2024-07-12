@@ -1,0 +1,4 @@
+Apple, 5, 20
+Banana, 8, 30
+Orange, 12, 15
+Grapes, 9, 25

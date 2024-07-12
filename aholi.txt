@@ -1,0 +1,51 @@
+Triánta,999432,Tajik
+Toyama-shi,527463,Gagauz
+Beigucheng,462211,Greek
+Margorejo,1348284,Irish Gaelic
+Perpignan,868938,Kazakh
+Pôrto Barra do Ivinheima,389658,Swahili
+Khao Khitchakut,854887,Amharic
+Kriel,1392627,Marathi
+Lungaog,125637,Korean
+Bolong,786816,Czech
+Sikonge,263782,Hungarian
+Poitiers,610112,Spanish
+Xingren,1225596,Filipino
+Parengan,341212,Montenegrin
+Sukaharja,814046,Czech
+Refojos,1402817,Irish Gaelic
+Caucasia,110354,Romanian
+Cloyne,1330998,Gujarati
+Boji,773891,Filipino
+Veinticinco de Mayo,1252666,Amharic
+Middleton,215171,Papiamento
+Buchanan,1391459,Kazakh
+Chenfangji,1382353,Kurdish
+Kryvyy Rih,1074183,Fijian
+Kīevka,1137607,Punjabi
+Tetebatu,493027,Dari
+Tanniu,1060708,Marathi
+Chavães,642159,Greek
+Gedongmulyo,1127215,Montenegrin
+Bobon,1470291,Portuguese
+Cishan,752803,Polish
+Shikhany,723526,Greek
+Esperanza,868494,Finnish
+Tuzhu,1101295,Kashmiri
+Hwasun,1211738,Malagasy
+Kaduseeng,1348067,Thai
+Le Havre,509045,Tetum
+Fengtang,396449,Punjabi
+Baruunturuun,833865,Bosnian
+Alegrete,762724,Amharic
+Renhe,988477,Luxembourgish
+Lazaro Cardenas,303520,Kannada
+Cangkreng,861850,Dzongkha
+Midões,1314716,Hungarian
+San Antonio,1488743,Georgian
+Marsabit,610923,German
+Aricagua,170362,New Zealand Sign Language
+Solina,121069,Dhivehi
+Ulanov,1343511,English
+Koubia,1386678,Swati
+Nikol’sk,571600,Polish
